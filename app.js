@@ -1,5 +1,4 @@
 document.getElementById('spinner').style.display = 'none';
-
 const searchFood = () => {
     const inputSearch = document.getElementById('input-search');
 
